@@ -1,5 +1,6 @@
-<a href="https://yash-530.github.io/My_Portfolio/">
-   <img src="https://shields.io" />
+
+<a href="https://github.io">
+  <b>🌐 My Portfolio</b>
 </a>
 
 
